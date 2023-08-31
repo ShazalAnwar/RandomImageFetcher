@@ -1,0 +1,17 @@
+ body{
+  display: flex;
+  justify-content: center;
+ }
+ .btnImages{
+  background-color: green;
+  color: white;
+  padding: 10px;
+  margin: 50px;
+  border: 2px solid rgb(61, 54, 39);
+  border-radius: 10px;
+  
+ }
+ .imagesset{
+  display: inline-block;
+  margin: 15px;
+ }
